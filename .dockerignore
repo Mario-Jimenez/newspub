@@ -1,0 +1,6 @@
+newspub-srv
+.gitignore
+.git
+Dockerfile
+Makefile
+README.md

@@ -1,0 +1,6 @@
+{
+  "logLevel": "",
+  "kafkaConnection": [
+    "localhost:9092"
+  ]
+}
